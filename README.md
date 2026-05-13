@@ -178,7 +178,7 @@ This repository helps in understanding:
 
 # 🎯 Learning Outcomes
 
-After completing these practicals, students can:
+After completing these practicals, I can:
 
 * Choose appropriate data structures for problem solving
 * Implement advanced tree and graph algorithms
@@ -193,13 +193,3 @@ After completing these practicals, students can:
 **Tushar Kaldate**
 
 ---
-
-# ⭐ Notes
-
-This repository is created for:
-
-* Academic practical submissions
-* Viva preparation
-* Data structure learning
-* Interview revision
-* Reference implementation of ADS concepts
