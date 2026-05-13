@@ -191,8 +191,6 @@ After completing these practicals, students can:
 # 👨‍💻 Author
 
 **Tushar Kaldate**
-**Second Year B.Tech Computer Engineering**
-**MIT Academy of Engineering**
 
 ---
 
